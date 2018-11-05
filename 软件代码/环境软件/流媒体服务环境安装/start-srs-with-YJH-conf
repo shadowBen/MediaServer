@@ -1,0 +1,2 @@
+#cd in /usr/local/srs/
+./objs/srs -c ./conf/srs.conf
