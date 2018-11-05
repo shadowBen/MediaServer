@@ -1,0 +1,1 @@
+netstat -nlp  grep 10002 awk '{print $7}'  awk -F  '{print $1}' 
